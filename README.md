@@ -1,7 +1,9 @@
 # angular-node-mongo-oauth2
 Angular/Node application using OAuth2 for authentication.
 
-# Installation
+# THIS PROJECT IS IN DEVELOPMENT AND CURRENTLY NOT FUNCTIONAL
+
+## Installation
 Copy repository files to a directory of your choosing.
 
 Run `npm install`
