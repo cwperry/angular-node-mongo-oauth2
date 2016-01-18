@@ -1,0 +1,19 @@
+{
+  "name": "angular-node-mongo-oauth2",
+  "version": "1.0.0",
+  "description": "Angular/Node application using OAuth2 for authentication.",
+  "main": "server.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwperry/angular-node-mongo-oauth2.git"
+  },
+  "author": "chrisp <chrisp@cellnine.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cwperry/angular-node-mongo-oauth2/issues"
+  },
+  "homepage": "https://github.com/cwperry/angular-node-mongo-oauth2#readme"
+}
