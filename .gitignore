@@ -40,3 +40,6 @@ bower_components
 # Jetbrains IDE files
 .idea
 *.iml
+
+# User supplied configuration files
+server/config/config.coffee
